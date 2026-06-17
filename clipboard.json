@@ -1,0 +1,20 @@
+{
+    "settings": {
+        "wait_seconds": 2,
+        "keystrokes_per_second": 25
+    },
+    "custom_entries": [
+        {
+            "menu_name": "Email",
+            "string_to_copy": "some.name@someCompany.com"
+        },
+        {
+            "menu_name": "Pass",
+            "string_to_copy": "pAssw0rd1234!.@$%^&*("
+        },
+        {
+            "menu_name": "Other",
+            "string_to_copy": "https://somedomain.somewebsite.com"
+        }
+    ]
+}
